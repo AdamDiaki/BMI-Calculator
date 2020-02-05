@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TP2</string>
+    <string name="Commentaire">Appreciation</string>
+    <string name="Result">"Résultat "</string>
+    <string name="appr_ciation">Appreciation</string>
+    <string name="calculer_l_imc">Calcul IMC</string>
+    <string name="centimetres">Centimètres</string>
+    <string name="d_terminez_votre_poids">entrez votre poids</string>
+    <string name="d_terminez_votre_taille">Entrez votre taille</string>
+    <string name="m_tre">Mètres</string>
+    <string name="vous_devez_cliquer_sur_le_bouton_calculer_l_imc_pour_obtenir_un_r_sultat">Vous devez cliquer sur le bouton calculer l\'imc pour obtenir un resultat</string>
+</resources>

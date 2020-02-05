@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">TP2</string>
+    <string name="calculer_l_imc">BMI Calculator</string>
+    <string name="appr_ciation">Details</string>
+    <string name="centimetres">Centimeters</string>
+    <string name="m_tre">Meters</string>
+    <string name="d_terminez_votre_taille">Enter your height</string>
+    <string name="d_terminez_votre_poids">Enter your weight</string>
+    <string name="vous_devez_cliquer_sur_le_bouton_calculer_l_imc_pour_obtenir_un_r_sultat">You must press the BMI Calculator button to get a result.</string>
+    <string name="Result">Résultat:</string>
+    <string name="Commentaire">Details</string>
+</resources>
